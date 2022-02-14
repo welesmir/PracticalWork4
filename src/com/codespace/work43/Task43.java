@@ -1,4 +1,4 @@
-package work43;
+package com.codespace.work43;
 
 public class Task43 {
     public static void main(String[] args) {
